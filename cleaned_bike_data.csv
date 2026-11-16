@@ -1,0 +1,613 @@
+Bike_Name,Brand,Price,Mileage,Engine_Capacity,Transmission,Kerb_Weight,Fuel_Tank_Capacity,User_Rating,Fuel_Type
+TVS Apache RTR 160,TVS,110695.0,61.0,159.7,5 Speed Manual,137.0,12.0,4.5,Petrol
+TVS Apache RTR 180 [2018-2019],TVS,110695.0,46.0,177.0,5 Speed Manual,139.0,16.0,4.6,Petrol
+TVS Apache RTR 180,TVS,127722.0,42.0,177.4,5 Speed Manual,140.0,12.0,4.6,Petrol
+TVS Apache RTR 200 4V,TVS,138353.0,41.9,197.75,5 Speed Manual,152.0,12.0,4.5,Petrol
+TVS Apache RR 310 [2020-2023],TVS,110695.0,30.0,312.2,6 Speed Manual,169.0,11.0,4.7,Petrol
+TVS Apache RR 310,TVS,262268.0,34.7,312.2,6 Speed Manual,174.0,11.0,1.0,Petrol
+TVS Apache RTR 160 4V,TVS,116479.0,41.4,159.7,5 Speed Manual,144.0,12.0,4.5,Petrol
+TVS Apache RTR 165RP,TVS,110695.0,45.0,165.0,5 Speed Manual,148.0,12.0,4.4,Petrol
+TVS Apache RTR 180 [2019],TVS,110695.0,42.0,177.0,5 Speed Manual,139.0,16.0,4.8,Petrol
+TVS Apache RTR 180 ABS [2019],TVS,110695.0,40.0,177.0,5 Speed Manual,139.0,16.0,4.6,Petrol
+TVS Apache RTR 310 [2023-2024],TVS,110695.0,30.0,312.12,6 Speed Manual,169.0,11.0,4.8,Petrol
+TVS Apache RTR 310,TVS,225284.0,30.0,312.12,6 Speed Manual,169.0,11.0,1.0,Petrol
+TVS Apache RTX,TVS,199495.0,32.0,299.0,6 Speed Manual,180.0,12.5,1.0,Petrol
+TVS Heavy Duty Super XL,TVS,60380.0,66.0,69.9,Automatic,66.0,3.0,1.0,Petrol
+TVS Jive,TVS,79537.0,62.0,110.0,4 Speed Manual,115.0,15.0,4.4,Petrol
+TVS Jupiter 125,TVS,87557.0,50.0,124.8,Automatic,108.0,5.1,4.1,Petrol
+TVS Jupiter Grande,TVS,87557.0,50.0,109.0,Automatic,108.0,5.0,4.4,Petrol
+TVS Jupiter,TVS,77373.0,53.84,113.3,Automatic,105.0,5.1,4.5,Petrol
+TVS Ntorq 125,TVS,90503.0,48.5,124.8,Automatic,111.0,5.8,4.4,Petrol
+TVS Ntorq 150,TVS,112350.0,40.0,149.7,Automatic,115.0,5.8,4.6,Petrol
+TVS Old Generation Jupiter 2013,TVS,87557.0,56.0,109.0,Automatic,108.0,5.0,4.3,Petrol
+TVS Phoenix,TVS,79537.0,77.0,124.53,4 Speed Manual,114.0,12.0,4.7,Petrol
+TVS Radeon,TVS,73741.0,63.0,109.7,4 Speed Manual,113.0,10.0,4.4,Petrol
+TVS Raider 125,TVS,86399.0,56.7,124.8,5 Speed Manual,123.0,10.0,4.4,Petrol
+TVS Ronin New,TVS,130314.0,42.0,225.9,5 Speed Manual,159.0,14.0,4.4,Petrol
+TVS Ronin,TVS,130314.0,42.0,225.9,5 Speed Manual,159.0,14.0,4.6,Petrol
+TVS Scooty Pep Plus,TVS,70503.0,68.0,88.0,Automatic,95.0,5.0,4.4,Petrol
+TVS Scooty Streak,TVS,70503.0,68.0,88.0,Automatic,96.0,4.0,4.4,Petrol
+TVS Sport,TVS,65729.0,80.0,109.7,4 Speed Manual,112.0,10.0,4.4,Petrol
+TVS Star City Plus,TVS,72072.0,70.0,109.7,4 Speed Manual,115.0,10.0,4.4,Petrol
+TVS Star City,TVS,79537.0,67.0,110.0,4 Speed Manual,115.0,16.0,4.3,Petrol
+TVS Victor,TVS,79537.0,72.0,109.7,4 Speed Manual,112.0,8.0,4.3,Petrol
+TVS Wego,TVS,70503.0,70.0,110.0,Automatic,108.0,5.0,4.3,Petrol
+TVS XL 100 Comfort,TVS,60380.0,55.0,99.7,Automatic,89.0,4.0,4.2,Petrol
+TVS XL 100 Heavy Duty,TVS,47922.0,57.0,99.7,Automatic,88.0,4.0,4.5,Petrol
+TVS XL 100,TVS,60380.0,60.0,99.7,Automatic,80.0,4.0,1.0,Petrol
+TVS XL Super,TVS,60380.0,66.0,69.9,Automatic,66.0,3.0,4.8,Petrol
+TVS Zest 110,TVS,70503.0,45.0,109.7,Automatic,103.0,5.0,4.2,Petrol
+Honda Activa 125 [2016-2017],Honda,78964.0,54.0,124.0,Automatic,111.0,5.3,1.0,Petrol
+Honda Activa 125,Honda,92806.0,47.0,123.92,Automatic,107.0,5.3,4.5,Petrol
+Honda Activa 3G,Honda,78964.0,61.0,109.2,Automatic,108.0,5.3,4.2,Petrol
+Honda Activa 4G,Honda,78964.0,60.0,109.2,Automatic,108.0,5.3,4.4,Petrol
+Honda Activa 5G,Honda,78964.0,60.0,109.19,Automatic,109.0,5.3,4.4,Petrol
+Honda Activa,Honda,78964.0,47.0,109.51,Automatic,106.0,5.3,4.4,Petrol
+Honda Activa i [2016-2017],Honda,78964.0,66.0,109.19,Automatic,103.0,5.3,1.0,Petrol
+Honda Activa i,Honda,78964.0,48.0,109.19,Automatic,103.0,5.3,1.0,Petrol
+Honda Africa Twin [2018-2019],Honda,1279000.0,18.0,999.11,Unknown,245.0,18.8,4.8,Petrol
+Honda Africa Twin [2019-2020],Honda,1279000.0,18.0,1084.0,Unknown,245.0,24.8,5.0,Petrol
+Honda Africa Twin,Honda,1580000.0,24.0,1082.0,6 Speed Manual,239.0,24.5,4.7,Petrol
+Honda Aviator [2016-2017],Honda,70503.0,66.0,109.19,Automatic,109.0,6.0,4.4,Petrol
+Honda Aviator,Honda,70503.0,50.0,109.19,Automatic,106.0,6.0,4.6,Petrol
+Honda CB 125 Hornet,Honda,115317.0,55.0,123.94,5 Speed Manual,124.0,12.0,4.6,Petrol
+Honda CB Hornet 160R,Honda,150307.0,48.0,162.71,5 Speed Manual,140.0,12.0,1.0,Petrol
+Honda CB Shine SP,Honda,84372.0,57.0,124.73,5 Speed Manual,124.0,10.5,1.0,Petrol
+Honda CB Unicorn 150,Honda,115839.0,60.0,149.2,5 Speed Manual,146.0,13.0,4.5,Petrol
+Honda CB Unicorn 160,Honda,115839.0,62.0,162.71,5 Speed Manual,134.0,12.0,1.0,Petrol
+Honda CB1000 Hornet,Honda,1329390.0,19.0,999.0,6 Speed Manual,211.0,17.0,4.8,Petrol
+Honda CB1000R [2017-2018],Honda,195200.0,16.0,999.0,6 Speed Manual,217.0,17.0,4.9,Petrol
+Honda CB200X,Honda,195200.0,42.0,184.4,5 Speed Manual,147.0,12.0,4.4,Petrol
+Honda CB300F Flex-Fuel,Honda,195200.0,35.0,293.52,6 Speed Manual,153.0,14.1,4.5,Petrol
+Honda CB300F,Honda,195200.0,35.0,293.52,6 Speed Manual,153.0,14.1,4.6,Petrol
+Honda CB300R [2018-2019],Honda,195200.0,33.0,286.0,6 Speed Manual,147.0,10.0,4.4,Petrol
+Honda CB300R [2020-2022],Honda,195200.0,30.0,286.0,6 Speed Manual,146.0,9.7,3.9,Petrol
+Honda CB300R,Honda,195200.0,31.5,286.0,6 Speed Manual,146.0,9.7,4.7,Petrol
+Honda CB350 [2017-2026],Honda,201940.0,35.0,348.36,5 Speed Manual,186.0,15.2,4.7,Petrol
+Honda CB350,Honda,195200.0,35.0,348.36,5 Speed Manual,181.0,15.0,4.6,Petrol
+Honda CB350C,Honda,200300.0,38.0,348.36,5 Speed Manual,186.0,15.2,4.8,Petrol
+Honda CB350RS [2021-2022],Honda,195200.0,35.0,348.36,5 Speed Manual,179.0,15.0,4.6,Petrol
+Honda CB350RS,Honda,199900.0,35.0,348.36,5 Speed Manual,180.0,15.0,4.6,Petrol
+Honda CB500X [2021],Honda,195200.0,26.5,471.0,6 Speed Manual,199.0,17.7,4.0,Petrol
+Honda CB650R [2018-2023],Honda,195200.0,18.5,648.72,6 Speed Manual,206.0,15.4,5.0,Petrol
+Honda CB650R [2024],Honda,195200.0,18.5,649.0,6 Speed Manual,205.0,15.4,4.9,Petrol
+Honda CB650R,Honda,195200.0,18.5,649.0,6 Speed Manual,205.0,15.4,4.8,Petrol
+Honda CB750 Hornet,Honda,1049000.0,19.0,755.0,6 Speed Manual,191.0,15.0,3.3,Petrol
+Honda CBR250R,Honda,3350000.0,31.5,249.6,6 Speed Manual,167.0,13.0,4.6,Petrol
+Honda CBR 650R [2018-2019],Honda,3350000.0,27.0,648.72,6 Speed Manual,210.0,15.4,4.8,Petrol
+Honda CBR1000RR Fireblade [2018],Honda,3350000.0,20.0,999.0,6 Speed Manual,196.0,16.0,4.6,Petrol
+Honda CBR1000RR Fireblade [2019],Honda,3350000.0,10.0,999.0,6 Speed Manual,195.0,16.2,4.9,Petrol
+Honda CBR1000RR-R Fireblade [2024],Honda,3350000.0,15.0,1000.0,6 Speed Manual,201.0,16.1,4.9,Petrol
+Honda CBR1000RR-R Fireblade,Honda,3350000.0,15.5,1000.0,Manual,201.0,16.5,3.5,Petrol
+Honda CBR150 R,Honda,3350000.0,38.0,149.0,6 Speed Manual,138.0,13.0,4.7,Petrol
+Honda CBR-250R,Honda,3350000.0,29.0,249.6,6 Speed Manual,167.0,13.0,4.7,Petrol
+Honda CBR650F,Honda,3350000.0,20.0,648.72,6 Speed Manual,216.0,17.3,4.7,Petrol
+Honda CBR650R [2024],Honda,3350000.0,18.5,649.0,6 Speed Manual,209.0,15.4,4.6,Petrol
+Honda CBR650R,Honda,3350000.0,19.0,649.0,6 Speed Manual,209.0,15.4,4.7,Petrol
+Honda CB Trigger,Honda,83951.0,60.0,149.0,5 Speed Manual,137.0,12.0,4.3,Petrol
+Honda CB Twister,Honda,79537.0,71.0,109.0,4 Speed Manual,108.0,8.0,4.4,Petrol
+Honda CB Unicorn Dazzler,Honda,115839.0,52.5,149.0,5 Speed Manual,138.0,12.0,4.8,Petrol
+Honda Cliq,Honda,70503.0,60.0,109.19,Automatic,102.0,3.5,4.4,Petrol
+Honda Dio 125,Honda,94266.0,47.0,123.92,Automatic,105.0,5.3,4.6,Petrol
+Honda Dio,Honda,75095.0,48.0,109.51,Automatic,106.0,5.3,1.0,Petrol
+Honda Dream Neo,Honda,79537.0,84.0,110.0,4 Speed Manual,105.0,8.0,4.4,Petrol
+Honda Dream Yuga,Honda,79537.0,84.0,109.0,4 Speed Manual,111.0,8.0,4.4,Petrol
+Honda CD 110 Dream,Honda,58726.0,65.0,109.19,4 Speed Manual,109.0,8.0,4.3,Petrol
+Honda Gold Wing GL1800 [2016-2017],Honda,4430000.0,35.0,1832.0,5 Speed Manual,363.0,25.0,4.5,Petrol
+Honda Goldwing [2020-2021],Honda,4430000.0,16.0,1833.0,6 Speed Manual,385.0,21.1,4.8,Petrol
+Honda Grazia,Honda,70503.0,60.0,124.9,Automatic,107.0,5.3,4.3,Petrol
+Honda Hness CB350 [2020-2022],Honda,195200.0,35.0,348.36,5 Speed Manual,181.0,15.0,4.5,Petrol
+Honda Hornet 2.0,Honda,150307.0,42.3,184.4,5 Speed Manual,142.0,12.0,4.2,Petrol
+Honda Livo,Honda,81024.0,60.0,109.51,4 Speed Manual,112.0,9.0,4.4,Petrol
+Honda Navi [2016-2017],Honda,70503.0,38.0,109.19,Automatic,101.0,3.8,4.6,Petrol
+Honda Navi,Honda,70372.0,47.0,109.19,Automatic,99.0,3.5,4.7,Petrol
+Honda NX200,Honda,161296.0,42.0,184.4,5 Speed Manual,148.0,12.0,4.6,Petrol
+Honda NX500 [2025],Honda,161296.0,27.0,471.0,6 Speed Manual,196.0,17.5,4.7,Petrol
+Honda Old Generation CB750 Hornet 2025,Honda,150307.0,19.0,755.0,6 Speed Manual,191.0,15.0,4.5,Petrol
+Honda Old Generation CBR 650R 2021,Honda,3350000.0,23.0,648.72,6 Speed Manual,211.0,15.4,4.7,Petrol
+Honda Old Generation Goldwing Tour 2023,Honda,4430000.0,16.0,1833.0,7 Speed Automatic,390.0,21.1,4.8,Petrol
+Honda Old Generation Transalp XL750 2025,Honda,1320000.0,20.0,755.0,6 Speed Manual,208.0,16.9,4.7,Petrol
+Honda Rebel 300,Honda,222000.0,26.0,286.0,6 Speed Manual,172.0,11.0,4.7,Petrol
+Honda Rebel 500 [2025],Honda,222000.0,26.0,471.0,6 Speed Manual,191.0,11.2,4.5,Petrol
+Honda Shine 100,Honda,66002.0,65.0,98.98,4 Speed Manual,99.0,9.0,4.6,Petrol
+Honda Shine,Honda,84372.0,55.0,123.94,5 Speed Manual,113.0,10.5,4.4,Petrol
+Honda SP 125,Honda,91373.0,63.0,123.94,5 Speed Manual,116.0,11.0,1.0,Petrol
+Honda SP160,Honda,118541.0,50.0,162.71,5 Speed Manual,138.0,12.0,4.5,Petrol
+Honda Transalp XL750 [2024],Honda,1320000.0,26.0,755.0,6 Speed Manual,208.0,16.9,5.0,Petrol
+Honda Unicorn,Honda,115839.0,50.0,162.71,5 Speed Manual,139.0,13.0,4.4,Petrol
+Honda X-ADV,Honda,1150000.0,36.0,745.0,Unknown,237.0,13.2,4.9,Petrol
+Honda X-Blade,Honda,84372.0,50.0,162.71,5 Speed Manual,140.0,12.0,4.5,Petrol
+Yamaha Aerox 155,Yamaha,146263.0,40.0,155.0,Automatic,126.0,5.5,4.5,Petrol
+Yamaha Crux,Yamaha,79537.0,76.0,106.0,4 Speed Manual,113.0,11.0,4.8,Petrol
+Yamaha Alpha,Yamaha,70503.0,62.0,113.0,Automatic,104.0,5.2,4.2,Petrol
+Yamaha Cygnus Ray ZR,Yamaha,82676.0,40.0,113.0,Automatic,105.0,5.2,4.4,Petrol
+Yamaha Fascino 110,Yamaha,81287.0,66.0,113.0,Automatic,103.0,5.2,4.2,Petrol
+Yamaha Fascino 125 [2025],Yamaha,81287.0,50.0,125.0,Automatic,99.0,5.2,4.3,Petrol
+Yamaha Fascino 125,Yamaha,81287.0,49.0,125.0,Automatic,99.0,5.2,4.2,Petrol
+Yamaha Fazer [2009-2016],Yamaha,83951.0,44.0,153.0,5 Speed Manual,141.0,12.0,4.4,Petrol
+Yamaha Fazer FI V 2.0 [2016-2018],Yamaha,83951.0,45.0,149.0,5 Speed Manual,137.0,12.0,4.5,Petrol
+Yamaha Fazer 25,Yamaha,13500.0,40.0,249.0,5 Speed Manual,148.0,14.0,4.6,Petrol
+Yamaha FZ Rave,Yamaha,125637.0,50.0,149.0,5 Speed Manual,136.0,13.0,4.5,Petrol
+Yamaha FZ S [2012-2016],Yamaha,116333.0,45.0,153.0,5 Speed Manual,135.0,12.0,4.7,Petrol
+Yamaha FZ S Hybrid,Yamaha,141755.0,60.0,149.0,5 Speed Manual,136.0,13.0,4.6,Petrol
+Yamaha FZ S V 2.0,Yamaha,116333.0,45.0,149.0,5 Speed Manual,132.0,12.0,4.5,Petrol
+Yamaha FZ S FI,Yamaha,116333.0,45.0,149.0,5 Speed Manual,132.0,12.0,4.4,Petrol
+Yamaha FZ V 2.0,Yamaha,116333.0,58.0,149.0,5 Speed Manual,132.0,12.0,4.5,Petrol
+Yamaha FZ FI,Yamaha,116333.0,47.0,149.0,5 Speed Manual,135.0,13.0,4.5,Petrol
+Yamaha FZ X Hybrid,Yamaha,145968.0,51.0,149.0,5 Speed Manual,141.0,10.0,4.7,Petrol
+Yamaha FZ X,Yamaha,126540.0,47.0,149.0,5 Speed Manual,139.0,10.0,4.0,Petrol
+Yamaha FZ1,Yamaha,116333.0,20.0,998.0,6 Speed Manual,214.0,18.0,4.8,Petrol
+Yamaha FZ16,Yamaha,116333.0,50.0,153.0,5 Speed Manual,135.0,12.0,4.5,Petrol
+Yamaha FZ25,Yamaha,116333.0,39.0,249.0,5 Speed Manual,148.0,14.0,4.5,Petrol
+Yamaha FZS FI V4,Yamaha,120402.0,60.0,149.0,5 Speed Manual,136.0,13.0,4.6,Petrol
+Yamaha MT-03,Yamaha,166586.0,34.0,321.0,6 Speed Manual,167.0,14.0,4.1,Petrol
+Yamaha MT-09 [2016-2017],Yamaha,166586.0,18.0,900.0,6 Speed Manual,191.0,14.0,5.0,Petrol
+Yamaha MT-09 [2017-2018],Yamaha,166586.0,18.0,847.0,6 Speed Manual,193.0,14.0,4.8,Petrol
+Yamaha MT 09 [2020],Yamaha,166586.0,18.0,847.0,6 Speed Manual,193.0,14.0,4.7,Petrol
+Yamaha MT 15 [2020-2021],Yamaha,166586.0,45.0,155.0,6 Speed Manual,138.0,10.0,4.6,Petrol
+Yamaha MT 15 V2,Yamaha,166586.0,47.0,155.0,6 Speed Manual,141.0,10.0,4.7,Petrol
+Yamaha YZF-R1 [2016-2017],Yamaha,175693.0,15.0,998.0,6 Speed Manual,199.0,17.0,4.6,Petrol
+Yamaha YZF R1,Yamaha,175693.0,18.0,998.0,6 Speed Manual,200.0,17.0,4.8,Petrol
+Yamaha YZF R15 [2011-2018],Yamaha,175693.0,42.0,150.0,6 Speed Manual,136.0,12.0,4.6,Petrol
+Yamaha R15S,Yamaha,160027.0,46.0,155.0,6 Speed Manual,142.0,11.0,4.8,Petrol
+Yamaha YZF R15 V3,Yamaha,175693.0,43.0,155.0,6 Speed Manual,142.0,11.0,4.7,Petrol
+Yamaha R15 V4,Yamaha,175693.0,46.0,155.0,6 Speed Manual,141.0,11.0,4.8,Petrol
+Yamaha YZF-R1M [2016-2017],Yamaha,175693.0,15.0,998.0,6 Speed Manual,200.0,17.0,4.9,Petrol
+Yamaha R2,Yamaha,231501.0,37.0,204.0,6 Speed Manual,149.0,12.0,1.0,Petrol
+Yamaha YZF-R3 [2016-2017],Yamaha,175693.0,22.0,321.0,6 Speed Manual,169.0,14.0,4.7,Petrol
+Yamaha R3,Yamaha,175693.0,29.5,321.0,6 Speed Manual,169.0,14.0,3.8,Petrol
+Yamaha Ray [2016],Yamaha,82676.0,62.0,113.0,Automatic,104.0,5.0,4.5,Petrol
+Yamaha Ray Z,Yamaha,82676.0,62.0,113.0,Automatic,104.0,5.0,4.3,Petrol
+Yamaha Ray ZR 125 [2020-2026],Yamaha,82676.0,51.0,125.0,Automatic,99.0,5.2,4.4,Petrol
+Yamaha Ray ZR 125,Yamaha,82676.0,49.0,125.0,Automatic,99.0,5.2,4.1,Petrol
+Yamaha RX100 [1985-1996],Yamaha,79537.0,40.0,98.0,4 Speed Manual,103.0,10.5,4.6,Petrol
+Yamaha Saluto RX,Yamaha,79537.0,82.0,110.0,4 Speed Manual,98.0,7.2,1.0,Petrol
+Yamaha Saluto,Yamaha,83951.0,78.0,125.0,4 Speed Manual,112.0,7.6,4.3,Petrol
+Yamaha SS 125,Yamaha,79537.0,68.0,123.0,5 Speed Manual,125.0,14.0,4.4,Petrol
+Yamaha SZ RR V 2.0,Yamaha,79537.0,50.0,149.0,5 Speed Manual,134.0,14.0,4.3,Petrol
+Yamaha SZ R,Yamaha,79537.0,41.0,153.0,5 Speed Manual,134.0,14.0,4.2,Petrol
+Yamaha SZ-RR,Yamaha,79537.0,55.0,153.0,5 Speed Manual,134.0,14.0,4.4,Petrol
+Yamaha SZ-S,Yamaha,79537.0,50.0,153.0,5 Speed Manual,133.0,14.0,4.0,Petrol
+Yamaha SZ X,Yamaha,79537.0,43.5,153.0,5 Speed Manual,135.0,14.0,4.6,Petrol
+Yamaha Vmax,Yamaha,4250000.0,14.0,1679.0,5 Speed Manual,310.0,15.0,4.9,Petrol
+Yamaha XSR 155,Yamaha,150963.0,46.0,155.0,6 Speed Manual,137.0,10.0,1.0,Petrol
+Yamaha YBR 110,Yamaha,79537.0,55.0,106.0,4 Speed Manual,126.0,13.0,4.3,Petrol
+Yamaha YBR 125,Yamaha,79537.0,57.0,123.0,4 Speed Manual,126.0,14.0,3.8,Petrol
+Yamaha YZF R15 S [2015],Yamaha,175693.0,42.0,150.0,6 Speed Manual,134.0,12.0,4.7,Petrol
+Yamaha YZF R3,Yamaha,175693.0,26.0,321.0,6 Speed Manual,169.0,14.0,4.8,Petrol
+Yamaha YZF R1 [2012],Yamaha,175693.0,20.0,998.0,6 Speed Manual,206.0,18.0,5.0,Petrol
+Bajaj Avenger [2015],Bajaj,134138.0,34.0,220.0,5 Speed Manual,154.0,14.0,4.4,Petrol
+Bajaj Avenger Street 150 [2018],Bajaj,134138.0,45.0,150.0,5 Speed Manual,148.0,14.0,4.5,Petrol
+Bajaj Avenger Cruise 220,Bajaj,134197.0,39.0,220.0,5 Speed Manual,163.0,13.0,4.4,Petrol
+Bajaj Avenger Street 160,Bajaj,134138.0,45.0,160.0,5 Speed Manual,150.0,13.0,4.4,Petrol
+Bajaj Avenger Street 180,Bajaj,134138.0,40.0,180.0,5 Speed Manual,150.0,13.0,4.1,Petrol
+Bajaj Avenger Street 220 [2015-2020],Bajaj,134138.0,40.0,220.0,5 Speed Manual,150.0,14.0,4.4,Petrol
+Bajaj Avenger Street 220 [2023-2024],Bajaj,134138.0,40.0,220.0,5 Speed Manual,163.0,13.0,4.5,Petrol
+Bajaj Avenger Street 220,Bajaj,134138.0,39.0,220.0,5 Speed Manual,160.0,13.0,4.1,Petrol
+Bajaj CT 100,Bajaj,74848.0,75.0,102.0,4 Speed Manual,115.0,10.5,4.5,Petrol
+Bajaj CT 110,Bajaj,74848.0,70.0,115.45,4 Speed Manual,127.0,11.0,4.4,Petrol
+Bajaj CT 125X,Bajaj,74848.0,60.0,124.4,5 Speed Manual,130.0,11.0,4.5,Petrol
+Bajaj Discover 100 M,Bajaj,79537.0,84.0,102.0,4 Speed Manual,114.0,9.5,4.2,Petrol
+Bajaj Discover 110,Bajaj,79537.0,65.0,115.5,4 Speed Manual,117.0,8.0,4.3,Petrol
+Bajaj Discover 125,Bajaj,79537.0,82.0,124.5,5 Speed Manual,121.0,8.0,4.3,Petrol
+Bajaj Discover 150F,Bajaj,186644.0,60.0,145.0,5 Speed Manual,132.0,10.0,1.0,Petrol
+Bajaj Discover 150S,Bajaj,79537.0,60.0,145.0,5 Speed Manual,129.0,10.0,1.0,Petrol
+Bajaj Discover 100 T,Bajaj,79537.0,56.0,102.0,5 Speed Manual,121.0,10.0,4.3,Petrol
+Bajaj Discover 125 ST,Bajaj,83951.0,58.0,125.0,5 Speed Manual,124.0,10.0,4.5,Petrol
+Bajaj Discover 125T,Bajaj,83951.0,68.0,125.0,5 Speed Manual,125.0,10.0,4.1,Petrol
+Bajaj Discover 150,Bajaj,79537.0,63.0,145.0,5 Speed Manual,121.0,8.0,4.2,Petrol
+Bajaj Dominar 250,Bajaj,186830.0,35.0,248.8,6 Speed Manual,180.0,13.0,4.5,Petrol
+Bajaj Dominar 400 [2019-2026],Bajaj,186830.0,29.0,373.27,6 Speed Manual,184.0,13.0,4.6,Petrol
+Bajaj Dominar 400,Bajaj,208334.0,30.0,349.13,6 Speed Manual,190.0,13.0,4.6,Petrol
+Bajaj Dominar 400 [2018],Bajaj,186830.0,29.0,373.3,6 Speed Manual,182.0,13.0,4.6,Petrol
+Bajaj Discover 125 M,Bajaj,79537.0,65.0,124.0,5 Speed Manual,118.0,9.5,4.3,Petrol
+Bajaj Old Generation Pulsar 220 F [2025] 2023,Bajaj,93491.0,40.0,220.0,5 Speed Manual,160.0,15.0,4.7,Petrol
+Bajaj Platina 100,Bajaj,71049.0,75.0,99.59,4 Speed Manual,117.0,11.0,4.5,Petrol
+Bajaj Platina 110 [2018-2020],Bajaj,71049.0,80.0,115.0,4 Speed Manual,117.0,11.5,4.3,Petrol
+Bajaj Platina 110,Bajaj,75819.0,70.0,115.45,4 Speed Manual,119.0,11.0,4.4,Petrol
+Bajaj Pulsar 125 [2019-2026],Bajaj,93491.0,50.0,124.4,5 Speed Manual,140.0,11.5,4.4,Petrol
+Bajaj Pulsar 125,Bajaj,93491.0,50.0,124.58,5 Speed Manual,131.0,11.0,4.0,Petrol
+Bajaj Pulsar 150 [2019-2026],Bajaj,93491.0,65.0,149.0,5 Speed Manual,143.0,15.0,4.5,Petrol
+Bajaj Pulsar 180 [2001-2019],Bajaj,93491.0,45.0,178.0,5 Speed Manual,147.0,15.0,4.5,Petrol
+Bajaj Pulsar 180 [2022],Bajaj,93491.0,42.0,178.6,5 Speed Manual,151.0,15.0,4.6,Petrol
+Bajaj Pulsar 180F,Bajaj,93491.0,42.0,178.6,5 Speed Manual,156.0,15.0,4.6,Petrol
+Bajaj Pulsar 180,Bajaj,122955.0,43.5,178.61,5 Speed Manual,156.0,15.0,1.0,Petrol
+Bajaj Pulsar 220 F [2022],Bajaj,93491.0,38.0,220.0,5 Speed Manual,160.0,15.0,4.6,Petrol
+Bajaj Pulsar 220F,Bajaj,139716.0,43.0,220.0,5 Speed Manual,160.0,15.0,4.3,Petrol
+Bajaj Pulsar AS150,Bajaj,93491.0,53.0,149.5,5 Speed Manual,143.0,12.0,4.4,Petrol
+Bajaj Pulsar AS200,Bajaj,93491.0,42.0,199.5,6 Speed Manual,153.0,12.0,4.3,Petrol
+Bajaj Pulsar F250,Bajaj,93491.0,39.0,249.0,5 Speed Manual,164.0,14.0,4.4,Petrol
+Bajaj Pulsar N125,Bajaj,93690.0,60.0,124.58,5 Speed Manual,125.0,9.5,4.4,Petrol
+Bajaj Pulsar N150,Bajaj,93491.0,48.0,149.68,5 Speed Manual,145.0,14.0,4.6,Petrol
+Bajaj Pulsar N160 4V,Bajaj,134430.0,51.6,164.5,5 Speed Manual,151.0,14.0,1.0,Petrol
+Bajaj Pulsar N160 2V,Bajaj,122948.0,51.6,164.82,5 Speed Manual,148.0,14.0,4.6,Petrol
+Bajaj Pulsar N250,Bajaj,145519.0,44.0,249.0,5 Speed Manual,164.0,14.0,4.5,Petrol
+Bajaj Pulsar NS160,Bajaj,126817.0,52.2,160.3,5 Speed Manual,152.0,12.0,4.6,Petrol
+Bajaj Pulsar NS200,Bajaj,139257.0,36.0,199.5,6 Speed Manual,158.0,12.0,4.7,Petrol
+Bajaj Pulsar NS125,Bajaj,94044.0,46.9,124.45,5 Speed Manual,144.0,12.0,4.5,Petrol
+Bajaj Pulsar NS400Z [2024-2026],Bajaj,93491.0,32.0,373.0,6 Speed Manual,174.0,12.0,4.6,Petrol
+Bajaj Pulsar NS400Z,Bajaj,190015.0,32.0,349.13,6 Speed Manual,176.0,12.0,4.5,Petrol
+Bajaj Pulsar P150,Bajaj,93491.0,60.2,149.68,5 Speed Manual,140.0,14.0,4.5,Petrol
+Bajaj Pulsar 135 LS,Bajaj,93491.0,64.0,135.0,5 Speed Manual,122.0,8.0,4.4,Petrol
+Bajaj Pulsar RS 200,Bajaj,180907.0,35.0,199.5,6 Speed Manual,167.0,13.0,4.7,Petrol
+Bajaj V12,Bajaj,79537.0,65.0,124.5,5 Speed Manual,133.0,13.0,4.4,Petrol
+Bajaj V15,Bajaj,79537.0,57.0,149.5,5 Speed Manual,135.0,13.0,4.2,Petrol
+Hero [2003-2014] Karizma,Hero,186644.0,40.0,223.0,5 Speed Manual,150.0,15.0,4.6,Petrol
+Hero [2009-2014] Karizma ZMR,Hero,186644.0,45.0,223.0,5 Speed Manual,159.0,15.3,4.6,Petrol
+Hero [2014] Karizma ZMR,Hero,186644.0,48.0,223.0,5 Speed Manual,157.0,15.3,4.4,Petrol
+Hero 2014 Karizma,Hero,186644.0,48.0,223.0,5 Speed Manual,154.0,15.0,1.0,Petrol
+Hero 2016 Karizma ZMR,Hero,186644.0,40.0,223.0,5 Speed Manual,157.0,15.3,4.2,Petrol
+Hero Achiever 150,Hero,79537.0,50.5,149.0,5 Speed Manual,138.0,12.0,4.4,Petrol
+Hero Achiever 150 [2005-2016],Hero,79537.0,58.0,149.0,5 Speed Manual,138.0,12.0,4.4,Petrol
+Hero HF Dawn [2015],Hero,79537.0,83.0,97.0,4 Speed Manual,109.0,10.0,1.0,Petrol
+Hero Destini 110,Hero,78143.0,56.2,110.9,Automatic,114.0,5.3,4.5,Petrol
+Hero Destini 125 [2018-2023],Hero,78270.0,45.0,124.6,Automatic,114.0,5.0,4.4,Petrol
+Hero Destini 125 Xtec,Hero,78270.0,45.0,124.6,Automatic,114.0,5.0,4.3,Petrol
+Hero Destini 125,Hero,82429.0,59.0,124.6,Automatic,115.0,5.3,4.6,Petrol
+Hero Destini Prime,Hero,78270.0,49.0,124.6,Automatic,115.0,5.0,4.5,Petrol
+Hero Duet,Hero,70503.0,45.0,110.9,Automatic,115.0,5.5,1.0,Petrol
+Hero Glamour 125,Hero,85600.0,55.0,124.7,4 Speed Manual,129.0,13.6,1.0,Petrol
+Hero Glamour FI,Hero,85600.0,72.0,124.7,4 Speed Manual,125.0,10.0,4.2,Petrol
+Hero Glamour X 125,Hero,90345.0,65.0,124.7,5 Speed Manual,125.5,10.0,4.6,Petrol
+Hero Glamour Xtec,Hero,85600.0,53.0,124.7,5 Speed Manual,122.0,10.0,4.1,Petrol
+Hero Glamour,Hero,85600.0,65.0,124.7,5 Speed Manual,121.3,10.0,4.1,Petrol
+Hero HF Dawn,Hero,79537.0,67.5,97.2,4 Speed Manual,105.0,9.5,4.6,Petrol
+Hero HF Deluxe Eco,Hero,58726.0,65.0,97.0,4 Speed Manual,112.0,10.5,4.5,Petrol
+Hero HF Deluxe Flex Fuel,Hero,69818.0,65.0,97.2,4 Speed Manual,112.5,9.6,4.3,Petrol
+Hero HF Deluxe,Hero,58726.0,65.0,97.2,4 Speed Manual,110.0,9.1,4.5,Petrol
+Hero Hunk,Hero,79537.0,53.0,149.0,5 Speed Manual,146.0,12.0,1.0,Petrol
+Hero Ignitor,Hero,83951.0,55.0,125.0,5 Speed Manual,129.0,9.0,1.0,Petrol
+Hero Impulse,Hero,79537.0,55.0,149.0,5 Speed Manual,134.0,11.1,4.7,Petrol
+Hero Karizma XMR,Hero,186644.0,35.0,210.0,6 Speed Manual,163.5,11.0,4.4,Petrol
+Hero Maestro,Hero,70372.0,68.0,109.0,Automatic,110.0,5.3,3.7,Petrol
+Hero Maestro Edge 110,Hero,70503.0,51.0,110.0,Automatic,109.0,5.5,3.9,Petrol
+Hero Maestro Edge 125,Hero,70372.0,45.0,124.6,Automatic,110.0,5.0,4.4,Petrol
+Hero Mavrick 440,Hero,208334.0,31.5,440.0,6 Speed Manual,191.0,13.5,1.0,Petrol
+Hero Old Generation Passion Pro 2018,Hero,79537.0,59.5,109.15,4 Speed Manual,117.0,11.0,1.0,Petrol
+Hero Old Generation Xpulse 200 2019,Hero,145472.0,40.0,199.6,5 Speed Manual,157.0,13.0,1.0,Petrol
+Hero Passion Plus,Hero,79537.0,71.0,97.2,4 Speed Manual,115.0,11.0,4.6,Petrol
+Hero Passion PRO i3s,Hero,79537.0,84.0,97.2,4 Speed Manual,115.0,12.5,4.3,Petrol
+Hero Passion PRO TR,Hero,79537.0,84.0,97.0,4 Speed Manual,119.0,12.8,4.3,Petrol
+Hero Passion X Pro [2016-2017],Hero,79537.0,86.0,109.0,4 Speed Manual,113.0,9.0,3.9,Petrol
+Hero Passion XPro,Hero,79537.0,57.0,109.15,4 Speed Manual,119.0,8.2,1.0,Petrol
+Hero Passion Xtec,Hero,79537.0,60.0,113.2,4 Speed Manual,117.0,10.0,3.8,Petrol
+Hero Pleasure [2005-2015],Hero,70372.0,63.0,102.0,Automatic,104.0,5.0,4.1,Petrol
+Hero Pleasure,Hero,70372.0,63.0,102.0,Automatic,101.0,5.0,4.3,Petrol
+Hero Pleasure Plus Xtec,Hero,78021.0,50.0,110.9,Automatic,106.0,4.8,3.9,Petrol
+Hero Pleasure Plus,Hero,70372.0,50.0,110.9,Automatic,104.0,4.8,4.5,Petrol
+Hero Splendor iSmart 110,Hero,77751.0,58.0,113.2,4 Speed Manual,116.0,9.5,3.5,Petrol
+Hero Splendor Plus Flex Fuel,Hero,81242.0,62.0,97.2,4 Speed Manual,113.0,9.8,4.6,Petrol
+Hero Splendor Plus i3s,Hero,77751.0,63.0,97.2,4 Speed Manual,112.0,10.5,1.0,Petrol
+Hero Splendor Plus Xtec,Hero,82566.0,73.0,97.2,4 Speed Manual,112.0,9.8,4.6,Petrol
+Hero Splendor Plus,Hero,77751.0,63.0,97.2,4 Speed Manual,112.0,9.8,4.6,Petrol
+Hero Splendor Pro Classic,Hero,77751.0,55.0,97.2,4 Speed Manual,109.0,11.0,4.6,Petrol
+Hero Splendor iSmart,Hero,77751.0,92.0,97.0,4 Speed Manual,110.0,8.7,3.4,Petrol
+Hero Splendor NXG,Hero,77751.0,65.0,97.0,4 Speed Manual,112.0,11.0,4.7,Petrol
+Hero Splendor PRO,Hero,77751.0,90.0,97.2,4 Speed Manual,112.0,11.0,4.5,Petrol
+Hero Super Splendor 2018,Hero,77751.0,55.0,124.7,4 Speed Manual,125.0,13.0,1.0,Petrol
+Hero Super Splendor Xtec 2.0,Hero,85943.0,75.0,124.7,5 Speed Manual,122.0,12.0,1.0,Petrol
+Hero Super Splendor Xtec,Hero,83951.0,69.0,124.7,5 Speed Manual,122.0,12.0,4.5,Petrol
+Hero Super Splendor,Hero,77751.0,75.0,124.7,4 Speed Manual,121.0,13.0,1.0,Petrol
+Hero Xoom 125,Hero,86097.0,52.8,124.6,Automatic,120.0,5.0,4.3,Petrol
+Hero Xoom 160,Hero,143051.0,41.0,156.0,Automatic,142.5,7.0,4.7,Petrol
+Hero Xoom 110,Hero,78303.0,45.0,110.9,Automatic,108.0,5.2,4.3,Petrol
+Hero Xpulse 200 4V,Hero,145472.0,32.9,199.6,5 Speed Manual,159.0,13.0,1.0,Petrol
+Hero Xpulse 200T 4V,Hero,145472.0,43.0,199.6,5 Speed Manual,153.0,13.0,4.4,Petrol
+Hero Xpulse 200T,Hero,145472.0,40.0,199.6,5 Speed Manual,154.0,13.0,4.2,Petrol
+Hero Xpulse 210,Hero,166777.0,37.0,210.0,6 Speed Manual,168.0,13.0,4.4,Petrol
+Hero Xtreme 125R,Hero,92835.0,66.0,124.7,5 Speed Manual,136.0,10.0,4.6,Petrol
+Hero Xtreme 160R 4V,Hero,134456.0,45.0,163.2,5 Speed Manual,145.0,12.0,1.0,Petrol
+Hero Xtreme 200R,Hero,109854.0,40.0,199.6,5 Speed Manual,149.0,12.5,1.0,Petrol
+Hero Xtreme 200S 4V,Hero,109854.0,50.0,199.6,5 Speed Manual,155.0,12.8,4.7,Petrol
+Hero Xtreme 200S,Hero,109854.0,40.0,199.6,5 Speed Manual,149.0,12.5,4.1,Petrol
+Hero Xtreme [2013-2014],Hero,109854.0,60.0,149.0,5 Speed Manual,148.0,12.0,4.5,Petrol
+Hero Xtreme 2014,Hero,109854.0,50.0,149.0,5 Speed Manual,145.0,12.1,1.0,Petrol
+Hero Xtreme 250R,Hero,172591.0,36.0,249.03,6 Speed Manual,167.7,11.5,4.6,Petrol
+Hero Xtreme Sports,Hero,109854.0,48.0,149.0,5 Speed Manual,146.0,12.1,1.0,Petrol
+Hero Xtreme 160R,Hero,109854.0,49.65,163.2,5 Speed Manual,139.5,12.0,4.4,Petrol
+KTM 125 Duke [2021],KTM,183603.0,40.0,124.71,6 Speed Manual,159.0,13.5,4.5,Petrol
+KTM 1390 Super Duke R,KTM,2295800.0,16.9,1350.0,6 Speed Manual,210.0,17.5,4.7,Petrol
+KTM 160 Duke,KTM,183603.0,37.0,164.2,6 Speed Manual,147.0,10.1,4.8,Petrol
+KTM 200 Duke [2021],KTM,183603.0,33.0,199.5,6 Speed Manual,159.0,13.5,4.7,Petrol
+KTM 250 Adventure [2021],KTM,406779.0,37.0,248.8,6 Speed Manual,177.0,14.5,4.7,Petrol
+KTM 250 Adventure [2024],KTM,406779.0,30.5,248.76,6 Speed Manual,177.0,14.5,4.7,Petrol
+KTM 250 Adventure,KTM,253651.0,31.0,248.76,6 Speed Manual,177.0,14.5,4.3,Petrol
+KTM 250 Duke [2021],KTM,183603.0,30.0,248.8,6 Speed Manual,169.0,13.5,4.7,Petrol
+KTM 350 EXC-F,KTM,1295800.0,18.0,349.7,6 Speed Manual,103.2,8.5,4.5,Petrol
+KTM 390 Adventure [2021],KTM,406779.0,28.0,373.0,6 Speed Manual,163.0,14.5,4.6,Petrol
+KTM 390 Adventure [2024],KTM,406779.0,32.7,373.27,6 Speed Manual,177.0,14.5,4.7,Petrol
+KTM 390 Adventure R,KTM,387903.0,26.5,398.7,6 Speed Manual,183.0,14.0,5.0,Petrol
+KTM 390 Adventure S,KTM,406779.0,26.5,398.63,6 Speed Manual,182.0,14.5,4.9,Petrol
+KTM 390 Adventure X [2024],KTM,406779.0,32.7,373.27,6 Speed Manual,177.0,14.5,4.6,Petrol
+KTM 390 Adventure X,KTM,351227.0,28.0,398.63,6 Speed Manual,181.0,14.5,4.7,Petrol
+KTM 390 Adventure,KTM,289252.0,28.0,349.32,6 Speed Manual,181.0,14.5,4.4,Petrol
+KTM 390 Duke [2021],KTM,183603.0,25.0,373.2,6 Speed Manual,167.0,13.5,4.8,Petrol
+KTM 390 Duke [2022-2023],KTM,183603.0,30.0,373.27,6 Speed Manual,171.0,13.4,4.8,Petrol
+KTM 390 Duke R,KTM,346848.0,29.0,398.63,6 Speed Manual,168.3,15.0,4.8,Petrol
+KTM 390 Duke,KTM,285530.0,28.0,349.32,6 Speed Manual,168.3,15.0,4.7,Petrol
+KTM 390 Enduro R,KTM,339269.0,27.0,398.63,6 Speed Manual,177.0,9.0,4.6,Petrol
+KTM 50 SX,KTM,475000.0,45.0,49.9,Manual,45.0,2.3,3.7,Petrol
+KTM 890 Duke R,KTM,1450000.0,21.0,889.0,6 Speed Manual,180.0,14.0,4.4,Petrol
+KTM 200 Duke,KTM,191570.0,35.0,199.5,6 Speed Manual,159.0,13.4,4.7,Petrol
+KTM 250 Duke,KTM,227653.0,32.0,249.07,6 Speed Manual,162.8,15.0,4.8,Petrol
+KTM 390 Duke ABS [2013-2016],KTM,183603.0,25.0,373.0,6 Speed Manual,139.0,11.0,4.5,Petrol
+KTM Old Generation 125 Duke 2022,KTM,183603.0,40.0,124.7,6 Speed Manual,159.0,13.4,4.6,Petrol
+KTM Old Generation 250 Duke 2022,KTM,183603.0,32.0,248.76,6 Speed Manual,170.0,13.4,4.9,Petrol
+KTM RC 125,KTM,201024.0,39.0,124.7,6 Speed Manual,160.0,13.7,3.9,Petrol
+KTM RC 200 [2020],KTM,201024.0,38.0,199.5,6 Speed Manual,160.6,9.5,4.7,Petrol
+KTM RC 200,KTM,232739.0,43.5,199.5,6 Speed Manual,160.0,13.7,4.5,Petrol
+KTM RC390 [2014-2016],KTM,201024.0,25.0,373.0,6 Speed Manual,159.0,9.5,4.6,Petrol
+KTM RC 390 [2020],KTM,201024.0,26.0,373.0,6 Speed Manual,172.0,9.5,4.8,Petrol
+KTM RC 390,KTM,333554.0,29.0,373.27,6 Speed Manual,172.0,13.7,4.7,Petrol
+Suzuki Access 125 old generation 2007,Suzuki,190771.0,53.0,124.0,Automatic,112.0,6.0,1.0,Petrol
+Suzuki Access 125,Suzuki,85038.0,47.0,124.0,Automatic,106.0,5.3,4.6,Petrol
+Suzuki Access [2024],Suzuki,190771.0,64.0,124.0,Automatic,102.0,5.6,4.3,Petrol
+Suzuki Avenis 125,Suzuki,93909.0,49.6,124.3,Automatic,106.0,5.2,4.6,Petrol
+Suzuki Burgman Street 125,Suzuki,106602.0,58.5,124.0,Automatic,114.0,5.5,4.5,Petrol
+Suzuki Burgman Street EX,Suzuki,114852.0,58.5,124.0,Automatic,111.0,5.5,4.5,Petrol
+Suzuki Gixxer [2014-2018],Suzuki,129461.0,54.0,155.0,5 Speed Manual,135.0,12.0,4.4,Petrol
+Suzuki Gixxer 250,Suzuki,184550.0,35.0,249.0,6 Speed Manual,156.0,12.0,4.7,Petrol
+Suzuki Gixxer SF 250 Flex Fuel,Suzuki,200855.0,35.0,249.0,6 Speed Manual,161.0,12.0,4.9,Petrol
+Suzuki Gixxer SF 250,Suzuki,195339.0,35.0,249.0,6 Speed Manual,161.0,12.0,4.6,Petrol
+Suzuki Gixxer SF Fi,Suzuki,129461.0,48.0,154.9,5 Speed Manual,140.0,12.0,4.6,Petrol
+Suzuki Gixxer SF,Suzuki,143283.0,45.0,155.0,5 Speed Manual,148.0,12.0,4.5,Petrol
+Suzuki Gixxer,Suzuki,129461.0,45.0,155.0,5 Speed Manual,141.0,12.0,4.4,Petrol
+Suzuki Gixxer SF [2015-2018],Suzuki,129461.0,48.0,155.0,5 Speed Manual,141.0,12.0,1.0,Petrol
+Suzuki GS150R,Suzuki,79537.0,56.0,149.0,6 Speed Manual,149.0,15.0,4.7,Petrol
+Suzuki GSX-8R [2024],Suzuki,991236.0,35.0,776.0,6 Speed Manual,205.0,14.0,5.0,Petrol
+Suzuki GSX-R1000,Suzuki,1959200.0,25.0,999.8,6 Speed Manual,200.0,16.0,4.5,Petrol
+Suzuki GSX-S750 [2017-2018],Suzuki,783000.0,19.3,749.0,6 Speed Manual,213.0,16.0,4.7,Petrol
+Suzuki GSX S750,Suzuki,783000.0,17.0,749.0,6 Speed Manual,215.0,16.0,4.8,Petrol
+Suzuki Hayabusa [2018-2019],Suzuki,1383800.0,11.0,1340.0,6 Speed Manual,266.0,21.0,4.8,Petrol
+Suzuki Hayabusa [2019-2020],Suzuki,1383800.0,18.0,1340.0,6 Speed Manual,266.0,21.0,4.9,Petrol
+Suzuki Hayabusa [2022],Suzuki,1899000.0,18.0,1340.0,6 Speed Manual,266.0,20.0,4.9,Petrol
+Suzuki Hayabusa [2024],Suzuki,1899000.0,18.0,1340.0,6 Speed Manual,266.0,20.0,4.8,Petrol
+Suzuki Hayabusa,Suzuki,1899000.0,18.0,1340.0,6 Speed Manual,266.0,20.0,4.8,Petrol
+Suzuki Hayabusa Limited Edition,Suzuki,1505802.0,11.0,1340.0,6 Speed Manual,260.0,21.0,4.6,Petrol
+Suzuki Hayate [2013-2016],Suzuki,79537.0,71.0,113.0,4 Speed Manual,114.0,10.5,4.0,Petrol
+Suzuki Hayate EP,Suzuki,79537.0,60.0,113.0,4 Speed Manual,107.0,10.0,4.2,Petrol
+Suzuki Inazuma 250,Suzuki,235484.0,28.0,248.0,6 Speed Manual,183.0,13.3,4.0,Petrol
+Suzuki Intruder 150 Fi,Suzuki,115006.0,42.0,154.9,5 Speed Manual,148.0,11.0,4.6,Petrol
+Suzuki Intruder M1800R,Suzuki,1505802.0,13.0,1783.0,5 Speed Manual,347.0,19.5,4.8,Petrol
+Suzuki Intruder 150,Suzuki,134197.0,44.0,154.9,5 Speed Manual,152.0,11.0,4.6,Petrol
+Suzuki Katana,Suzuki,999000.0,20.0,999.0,6 Speed Manual,217.0,12.0,4.7,Petrol
+Suzuki Lets,Suzuki,70503.0,63.0,112.0,Automatic,98.0,5.2,4.0,Petrol
+Suzuki SlingShot Plus,Suzuki,79537.0,59.0,124.0,5 Speed Manual,128.0,10.0,3.7,Petrol
+Suzuki Swish [2012-2015],Suzuki,70503.0,57.0,124.0,Automatic,110.0,6.0,4.6,Petrol
+Suzuki Swish 125 facelift,Suzuki,70503.0,58.0,124.0,Automatic,110.0,6.0,4.0,Petrol
+Suzuki V-Strom 1000,Suzuki,204644.0,15.0,1037.0,6 Speed Manual,228.0,20.0,4.8,Petrol
+Suzuki V-Strom 650 XT,Suzuki,204644.0,25.0,645.0,6 Speed Manual,216.0,20.0,4.5,Petrol
+Suzuki V-Strom SX,Suzuki,204644.0,36.0,249.0,6 Speed Manual,167.0,12.0,4.6,Petrol
+Kawasaki Eliminator,Kawasaki,616000.0,29.0,451.0,6 Speed Manual,176.0,13.0,4.7,Petrol
+Kawasaki ER-6n,Kawasaki,497277.0,17.0,649.0,6 Speed Manual,204.0,16.0,4.2,Petrol
+Kawasaki KLX 110,Kawasaki,960960.0,33.0,112.0,4 Speed Manual,76.0,3.8,4.7,Petrol
+Kawasaki KLX230 [2025],Kawasaki,184010.0,38.0,233.0,6 Speed Manual,139.0,7.5,4.8,Petrol
+Kawasaki KLX230,Kawasaki,219000.0,36.0,233.0,6 Speed Manual,139.0,7.5,3.3,Petrol
+Kawasaki KLX230R [2025],Kawasaki,179010.0,36.0,233.0,6 Speed Manual,129.0,7.5,4.6,Petrol
+Kawasaki KLX230RS [2023-2025],Kawasaki,481026.0,20.0,233.0,6 Speed Manual,115.0,6.6,5.0,Petrol
+Kawasaki KLX450R [2017-2018],Kawasaki,960960.0,150.0,449.0,5 Speed Manual,126.0,8.0,4.5,Petrol
+Kawasaki KLX450R,Kawasaki,960960.0,56.0,449.0,5 Speed Manual,126.0,8.0,4.5,Petrol
+Kawasaki KX250 [2021],Kawasaki,991958.0,40.0,249.0,5 Speed Manual,107.3,6.2,3.7,Petrol
+Kawasaki KX450,Kawasaki,991958.0,20.0,449.0,5 Speed Manual,110.2,6.2,5.0,Petrol
+Kawasaki KX450F [2017-2018],Kawasaki,991958.0,12.0,449.0,5 Speed Manual,109.0,6.2,4.0,Petrol
+Kawasaki Ninja 1000 [2018],Kawasaki,317000.0,20.0,1043.0,6 Speed Manual,234.0,19.0,4.7,Petrol
+Kawasaki Ninja 1000 [2018-2019],Kawasaki,317000.0,20.0,1043.0,6 Speed Manual,239.0,19.0,4.9,Petrol
+Kawasaki Ninja 1000 [2020-2021],Kawasaki,317000.0,20.0,1043.0,6 Speed Manual,238.0,19.0,4.8,Petrol
+Kawasaki Ninja 1000,Kawasaki,317000.0,18.0,1043.0,6 Speed Manual,238.0,19.0,4.8,Petrol
+Kawasaki Ninja 1100SX [2025],Kawasaki,1441939.0,17.8,1099.0,6 Speed Manual,238.0,19.0,4.9,Petrol
+Kawasaki Ninja 300 [2018-2019],Kawasaki,317000.0,25.0,296.0,6 Speed Manual,179.0,17.0,4.7,Petrol
+Kawasaki Ninja 300 [2021],Kawasaki,317000.0,30.0,296.0,6 Speed Manual,179.0,17.0,4.7,Petrol
+Kawasaki Ninja 300 [2022],Kawasaki,317000.0,28.0,296.0,6 Speed Manual,179.0,17.0,4.8,Petrol
+Kawasaki Ninja 300 [2024],Kawasaki,317000.0,25.0,296.0,6 Speed Manual,179.0,17.0,4.7,Petrol
+Kawasaki Ninja 300 [2026],Kawasaki,317000.0,26.5,296.0,6 Speed Manual,179.0,17.0,4.4,Petrol
+Kawasaki Ninja 300,Kawasaki,334000.0,27.0,296.0,6 Speed Manual,179.0,17.0,3.8,Petrol
+Kawasaki Ninja 400,Kawasaki,317000.0,26.5,399.0,6 Speed Manual,173.0,14.0,3.8,Petrol
+Kawasaki Ninja 500 [2024-2025],Kawasaki,317000.0,21.5,451.0,6 Speed Manual,171.0,14.0,4.5,Petrol
+Kawasaki Ninja 500 [2026],Kawasaki,317000.0,21.0,451.0,6 Speed Manual,171.0,14.0,3.6,Petrol
+Kawasaki Ninja 500,Kawasaki,566000.0,21.0,451.0,6 Speed Manual,171.0,14.0,4.8,Petrol
+Kawasaki Ninja 650 [2018-2019],Kawasaki,317000.0,21.5,649.0,6 Speed Manual,193.0,15.0,4.8,Petrol
+Kawasaki Ninja 650 [2020-2021],Kawasaki,317000.0,35.0,649.0,6 Speed Manual,196.0,15.0,4.8,Petrol
+Kawasaki Ninja 650 [2022],Kawasaki,317000.0,27.0,649.0,6 Speed Manual,196.0,15.0,4.9,Petrol
+Kawasaki Ninja 650 [2023-2024],Kawasaki,317000.0,27.0,649.0,6 Speed Manual,196.0,15.0,4.9,Petrol
+Kawasaki Ninja 650 [2023],Kawasaki,317000.0,27.0,649.0,6 Speed Manual,196.0,15.0,4.7,Petrol
+Kawasaki Ninja 650 [2025],Kawasaki,776967.0,27.0,649.0,6 Speed Manual,196.0,15.0,4.8,Petrol
+Kawasaki Ninja H2 [2018-2019],Kawasaki,317000.0,34.0,998.0,6 Speed Manual,238.0,17.0,4.8,Petrol
+Kawasaki Ninja H2 SX [2018-2019],Kawasaki,317000.0,18.0,998.0,6 Speed Manual,256.0,19.0,5.0,Petrol
+Kawasaki Ninja H2 SX SE [2018-2019],Kawasaki,317000.0,15.5,998.0,6 Speed Manual,260.0,19.0,4.7,Petrol
+Kawasaki Ninja H2 SX SE,Kawasaki,3627783.0,15.0,998.0,6 Speed Manual,268.0,19.0,4.9,Petrol
+Kawasaki Ninja H2 SX,Kawasaki,317000.0,23.0,998.0,6 Speed Manual,266.0,19.0,4.8,Petrol
+Kawasaki Ninja H2R [2018-2019],Kawasaki,317000.0,13.0,998.0,6 Speed Manual,216.0,17.0,4.8,Petrol
+Kawasaki Ninja H2R,Kawasaki,317000.0,25.0,998.0,6 Speed Manual,216.0,17.0,4.8,Petrol
+Kawasaki Ninja ZX-10R [2018-2019],Kawasaki,317000.0,23.5,998.0,6 Speed Manual,204.0,17.0,4.7,Petrol
+Kawasaki Ninja ZX-10R [2020-2021],Kawasaki,317000.0,19.5,998.0,6 Speed Manual,207.0,17.0,4.9,Petrol
+Kawasaki Ninja ZX-10R [2019-2020],Kawasaki,317000.0,19.0,998.0,6 Speed Manual,206.0,17.0,4.7,Petrol
+Kawasaki Ninja ZX-10R [2021],Kawasaki,317000.0,20.0,998.0,6 Speed Manual,207.0,17.0,4.7,Petrol
+Kawasaki Ninja ZX-10R [2024],Kawasaki,317000.0,18.0,998.0,6 Speed Manual,207.0,17.0,4.9,Petrol
+Kawasaki Ninja ZX-10R,Kawasaki,2079000.0,25.0,998.0,6 Speed Manual,207.0,17.0,5.0,Petrol
+Kawasaki Ninja ZX-10RR,Kawasaki,317000.0,25.0,998.0,6 Speed Manual,206.0,17.0,5.0,Petrol
+Kawasaki Ninja ZX-14R,Kawasaki,317000.0,17.0,1441.0,6 Speed Manual,269.0,22.0,4.4,Petrol
+Kawasaki Ninja ZX-4R,Kawasaki,317000.0,20.0,399.0,6 Speed Manual,189.0,15.0,4.8,Petrol
+Kawasaki Ninja ZX-4RR [2023],Kawasaki,317000.0,18.5,399.0,6 Speed Manual,189.0,15.0,4.4,Petrol
+Kawasaki Ninja ZX-4RR,Kawasaki,317000.0,26.0,399.0,6 Speed Manual,189.0,15.0,5.0,Petrol
+Kawasaki Ninja ZX-6R [2018-2019],Kawasaki,317000.0,18.5,636.0,6 Speed Manual,196.0,17.0,4.9,Petrol
+Kawasaki Ninja ZX-6R [2024],Kawasaki,317000.0,25.0,636.0,6 Speed Manual,198.0,17.0,4.9,Petrol
+Kawasaki Ninja ZX-6R,Kawasaki,1248948.0,22.0,636.0,6 Speed Manual,198.0,17.0,4.8,Petrol
+Kawasaki Ninja 250R,Kawasaki,317000.0,26.5,249.0,6 Speed Manual,170.0,17.0,4.5,Petrol
+Kawasaki Ninja 650 [2016],Kawasaki,317000.0,21.0,649.0,6 Speed Manual,211.0,16.0,5.0,Petrol
+Kawasaki Ninja ZX-10R [2015],Kawasaki,317000.0,14.0,998.0,6 Speed Manual,204.0,17.0,4.5,Petrol
+Kawasaki Ninja 300 [2025] [2025-2026],Kawasaki,317000.0,27.0,296.0,6 Speed Manual,179.0,17.0,4.7,Petrol
+Kawasaki Versys 650 [2025] [2025-2026],Kawasaki,349020.0,19.4,649.0,6 Speed Manual,218.0,21.0,4.5,Petrol
+Kawasaki Versys 1000 [2017-2018],Kawasaki,349020.0,17.0,1043.0,6 Speed Manual,250.0,21.0,5.0,Petrol
+Kawasaki Versys 1000 [2019-2021],Kawasaki,349020.0,20.0,1043.0,6 Speed Manual,255.0,21.0,5.0,Petrol
+Kawasaki Versys 1000 [2021-2022],Kawasaki,349020.0,20.0,1043.0,6 Speed Manual,255.0,21.0,4.6,Petrol
+Kawasaki Versys 1000,Kawasaki,349020.0,20.0,1043.0,6 Speed Manual,255.0,21.0,5.0,Petrol
+Kawasaki Versys 650 [2017-2018],Kawasaki,349020.0,35.0,649.0,6 Speed Manual,216.0,21.0,4.3,Petrol
+Kawasaki Versys 650 [2018-2019],Kawasaki,349020.0,35.0,649.0,6 Speed Manual,216.0,21.0,4.7,Petrol
+Kawasaki Versys 650 [2020-2021],Kawasaki,349020.0,56.0,649.0,6 Speed Manual,218.0,21.0,4.7,Petrol
+Kawasaki Versys 650 [2023-2024],Kawasaki,349020.0,19.4,649.0,6 Speed Manual,219.0,21.0,4.3,Petrol
+Kawasaki Versys X-300 [2018-2019],Kawasaki,349020.0,35.0,296.0,6 Speed Manual,184.0,17.0,3.6,Petrol
+Kawasaki Versys-X 300,Kawasaki,349000.0,28.0,296.0,6 Speed Manual,175.0,17.0,4.0,Petrol
+Kawasaki Vulcan S [2018-2019],Kawasaki,813000.0,22.0,649.0,6 Speed Manual,235.0,14.0,4.8,Petrol
+Kawasaki Vulcan S [2020-2021],Kawasaki,813000.0,22.0,649.0,6 Speed Manual,235.0,14.0,5.0,Petrol
+Kawasaki Vulcan S [2022],Kawasaki,813000.0,22.0,649.0,6 Speed Manual,235.0,14.0,4.5,Petrol
+Kawasaki Vulcan S [2023],Kawasaki,813000.0,22.0,649.0,6 Speed Manual,235.0,14.0,4.7,Petrol
+Kawasaki Vulcan S [2025],Kawasaki,813000.0,22.0,649.0,6 Speed Manual,235.0,14.0,4.3,Petrol
+Kawasaki W175,Kawasaki,115006.0,42.0,177.0,5 Speed Manual,135.0,12.0,4.2,Petrol
+Kawasaki W800 [2018-2019],Kawasaki,115006.0,17.0,773.0,5 Speed Manual,224.0,15.0,5.0,Petrol
+Kawasaki W800,Kawasaki,115006.0,22.0,773.0,5 Speed Manual,224.0,15.0,3.8,Petrol
+Kawasaki Z H2 [2022],Kawasaki,725960.0,12.0,998.0,6 Speed Manual,239.0,19.0,4.8,Petrol
+Kawasaki Z H2,Kawasaki,725960.0,15.0,998.0,6 Speed Manual,239.0,19.0,4.7,Petrol
+Kawasaki Z1000,Kawasaki,725960.0,15.0,1043.0,6 Speed Manual,221.0,17.0,4.7,Petrol
+Kawasaki Z1100,Kawasaki,1279000.0,18.0,1099.0,6 Speed Manual,221.0,17.0,4.9,Petrol
+Kawasaki Z250,Kawasaki,725960.0,28.0,249.0,6 Speed Manual,168.0,17.0,4.6,Petrol
+Kawasaki Z650 [2018-2019],Kawasaki,725960.0,35.0,649.0,6 Speed Manual,186.0,15.0,4.7,Petrol
+Kawasaki Z650 [2020-2021],Kawasaki,725960.0,27.0,649.0,6 Speed Manual,191.0,15.0,4.6,Petrol
+Kawasaki Z650,Kawasaki,725960.0,27.0,649.0,6 Speed Manual,191.0,15.0,4.9,Petrol
+Kawasaki Z650RS [2021-2023],Kawasaki,725960.0,18.0,649.0,6 Speed Manual,192.0,12.0,5.0,Petrol
+Kawasaki Z650RS [2025],Kawasaki,768968.0,21.0,649.0,6 Speed Manual,192.0,12.0,4.7,Petrol
+Kawasaki Z650RS,Kawasaki,783000.0,27.0,649.0,6 Speed Manual,192.0,12.0,4.3,Petrol
+Kawasaki Z800,Kawasaki,725960.0,16.0,806.0,6 Speed Manual,231.0,17.0,4.9,Petrol
+Kawasaki Z900 [2017-2018],Kawasaki,725960.0,22.0,948.0,6 Speed Manual,210.0,17.0,4.9,Petrol
+Kawasaki Z900 [2018-2019],Kawasaki,725960.0,17.0,948.0,6 Speed Manual,210.0,17.0,4.8,Petrol
+Kawasaki Z900 [2020-2021],Kawasaki,725960.0,20.0,948.0,6 Speed Manual,212.0,17.0,4.9,Petrol
+Kawasaki Z900 [2021],Kawasaki,725960.0,20.0,948.0,6 Speed Manual,212.0,17.0,4.8,Petrol
+Kawasaki Z900 [2022-2023],Kawasaki,725960.0,15.0,948.0,6 Speed Manual,212.0,17.0,4.8,Petrol
+Kawasaki Z900 [2024],Kawasaki,725960.0,18.5,948.0,6 Speed Manual,212.0,17.0,4.8,Petrol
+Kawasaki Z900 [2025],Kawasaki,725960.0,21.0,948.0,6 Speed Manual,213.0,17.0,4.8,Petrol
+Kawasaki Z900 RS [2018-2019],Kawasaki,725960.0,18.0,948.0,6 Speed Manual,215.0,17.0,5.0,Petrol
+Kawasaki Z900,Kawasaki,999000.0,21.0,948.0,6 Speed Manual,212.0,17.0,4.9,Petrol
+Kawasaki Z900RS [2024],Kawasaki,725960.0,28.0,948.0,6 Speed Manual,215.0,17.0,5.0,Petrol
+BMW C 400 GT,BMW,1150000.0,28.0,350.0,Automatic,214.0,12.8,4.8,Petrol
+BMW F 450 GS,BMW,495000.0,26.0,420.0,6 Speed Manual,178.0,14.0,4.4,Petrol
+BMW F 850 GS Adventure [2018-2019],BMW,1600000.0,18.0,853.0,6 Speed Manual,229.0,23.0,5.0,Petrol
+BMW F 900 GS Adventure,BMW,1749912.0,22.7,895.0,6 Speed Manual,246.0,23.0,5.0,Petrol
+BMW F750 GS [2018-2019],BMW,1600000.0,35.0,853.0,6 Speed Manual,224.0,15.0,4.6,Petrol
+BMW F850 GS [2018-2019],BMW,1600000.0,35.0,853.0,6 Speed Manual,229.0,15.0,5.0,Petrol
+BMW F850 GS,BMW,1600000.0,24.0,853.0,6 Speed Manual,233.0,15.0,4.9,Petrol
+BMW F900R,BMW,1600000.0,23.8,895.0,6 Speed Manual,211.0,13.0,4.5,Petrol
+BMW F900XR [2021],BMW,1600000.0,23.8,895.0,6 Speed Manual,219.0,15.5,4.7,Petrol
+BMW F900XR,BMW,1600000.0,24.0,895.0,6 Speed Manual,219.0,15.5,5.0,Petrol
+BMW G 310 GS [2021],BMW,289994.0,30.0,313.0,6 Speed Manual,175.0,11.0,4.6,Petrol
+BMW G 310 GS,BMW,289994.0,30.0,313.0,6 Speed Manual,175.0,11.5,4.8,Petrol
+BMW G 310 R [2021],BMW,289994.0,30.0,313.0,6 Speed Manual,164.0,11.0,4.1,Petrol
+BMW G 310 R,BMW,289994.0,30.0,313.0,6 Speed Manual,164.0,11.0,4.7,Petrol
+BMW G310 RR,BMW,289994.0,30.0,312.12,6 Speed Manual,174.0,11.0,4.8,Petrol
+BMW G310GS [2018-2019],BMW,289994.0,27.5,313.0,6 Speed Manual,169.5,11.0,4.6,Petrol
+BMW G 310 R [2018-2019],BMW,289994.0,30.0,313.0,6 Speed Manual,158.5,11.0,4.7,Petrol
+BMW K 1600 B [2018-2019],BMW,3800000.0,20.0,1649.0,6 Speed Manual,336.0,26.5,4.6,Petrol
+BMW K1300 R,BMW,3800000.0,17.0,1293.0,6 Speed Manual,243.0,19.0,4.6,Petrol
+BMW K1600 GTL [2018-2019],BMW,3800000.0,20.0,1649.0,6 Speed Manual,332.0,26.5,4.6,Petrol
+BMW M 1000 R [2023-2025],BMW,3350000.0,15.6,999.0,6 Speed Manual,199.0,16.5,5.0,Petrol
+BMW M 1000 RR,BMW,3350000.0,15.3,999.0,6 Speed Manual,192.0,16.5,4.8,Petrol
+BMW M 1000 XR,BMW,3350000.0,15.0,999.0,6 Speed Manual,223.0,20.0,3.8,Petrol
+BMW Old Generation C 400 GT 2021 [2021-2025],BMW,1150000.0,28.0,350.0,Automatic,214.0,12.8,4.3,Petrol
+BMW R 12 nine T,BMW,2350000.0,19.6,1170.0,6 Speed Manual,220.0,16.0,4.8,Petrol
+BMW R 12,BMW,2250000.0,19.6,1170.0,6 Speed Manual,227.0,14.0,4.3,Petrol
+BMW R 1200 RS,BMW,2349945.0,18.0,1170.0,6 Speed Manual,236.0,18.0,4.9,Petrol
+BMW R 1250 GS [2018-2019],BMW,2349945.0,18.0,1254.0,6 Speed Manual,249.0,20.0,5.0,Petrol
+BMW R 1250 GS Adventure,BMW,2349945.0,21.0,1254.0,6 Speed Manual,268.0,30.0,4.9,Petrol
+BMW R 1250 GS,BMW,2349945.0,21.0,1254.0,6 Speed Manual,249.0,20.0,4.9,Petrol
+BMW R 1300 GS Adventure,BMW,2650000.0,21.0,1300.0,6 Speed Manual,269.0,30.0,4.9,Petrol
+BMW R Nine T Scrambler [2019],BMW,2350000.0,18.0,1170.0,6 Speed Manual,220.0,17.0,4.9,Petrol
+BMW R nineT [2018-2019],BMW,2350000.0,18.0,1170.0,6 Speed Manual,222.0,18.0,5.0,Petrol
+BMW R nineT,BMW,2350000.0,19.6,1170.0,6 Speed Manual,221.0,18.0,1.0,Petrol
+BMW R1200 GS Adventure,BMW,2349945.0,16.0,1170.0,6 Speed Manual,274.0,33.0,4.7,Petrol
+BMW R1200 GS,BMW,2349945.0,19.0,1170.0,6 Speed Manual,274.0,20.0,4.3,Petrol
+BMW R1200 RT,BMW,2349945.0,18.0,1170.0,6 Speed Manual,274.0,25.0,5.0,Petrol
+BMW R1200 R,BMW,2349945.0,24.0,1170.0,6 Speed Manual,274.0,18.0,4.7,Petrol
+BMW R 1300 GS,BMW,2349945.0,21.0,1300.0,6 Speed Manual,237.0,19.0,1.0,Petrol
+BMW R18,BMW,2349945.0,17.0,1802.0,6 Speed Manual,345.0,16.0,4.6,Petrol
+BMW S 1000 R [2018-2019],BMW,2375000.0,18.0,999.0,6 Speed Manual,207.0,17.5,4.5,Petrol
+BMW S 1000 R [2024],BMW,2375000.0,16.0,999.0,6 Speed Manual,199.0,16.5,4.6,Petrol
+BMW S 1000 R,BMW,2225000.0,16.0,999.0,6 Speed Manual,199.0,16.5,5.0,Petrol
+BMW S 1000 RR [2022-2024],BMW,2375000.0,16.0,999.0,6 Speed Manual,197.0,16.5,4.8,Petrol
+BMW S 1000 XR [2018-2019],BMW,2375000.0,26.0,999.0,6 Speed Manual,228.0,20.0,5.0,Petrol
+BMW S 1000 XR [2021-2023],BMW,2375000.0,14.9,999.0,6 Speed Manual,228.0,20.0,4.9,Petrol
+BMW S 1000 XR,BMW,2375000.0,16.0,999.0,6 Speed Manual,227.0,20.0,4.7,Petrol
+BMW S1000 RR [2021],BMW,2375000.0,16.0,999.0,6 Speed Manual,197.0,16.5,5.0,Petrol
+BMW S1000 RR [2017-2018],BMW,2375000.0,16.5,999.0,6 Speed Manual,204.0,17.5,4.8,Petrol
+BMW S1000 RR [2018-2019],BMW,2375000.0,15.0,999.0,6 Speed Manual,197.0,16.5,4.9,Petrol
+BMW S1000RR,BMW,2375000.0,16.0,999.0,6 Speed Manual,197.0,16.5,4.8,Petrol
+Aprilia Caponord 1200 ABS,Aprilia,1939000.0,18.0,1197.0,6 Speed Manual,214.0,24.0,4.6,Petrol
+Aprilia Dorsoduro 1200 ABS,Aprilia,2295800.0,20.0,1197.0,6 Speed Manual,212.0,15.0,4.4,Petrol
+Aprilia Mana 850 GT ABS,Aprilia,1373982.0,21.0,839.0,7 Speed Manual,218.0,16.0,4.2,Petrol
+Aprilia RS 457 [2023-2026],Aprilia,1895878.0,25.0,457.0,6 Speed Manual,175.0,13.0,4.8,Petrol
+Aprilia RS 457,Aprilia,433431.0,24.0,457.0,6 Speed Manual,175.0,13.0,4.8,Petrol
+Aprilia RS 660 [2020-2023],Aprilia,1895878.0,22.0,659.0,6 Speed Manual,183.0,15.0,4.5,Petrol
+Aprilia RSV4 1100 Factory,Aprilia,3340763.0,15.0,1099.0,6 Speed Manual,202.0,17.9,5.0,Petrol
+Aprilia RSV4 RF,Aprilia,3340763.0,12.0,999.6,6 Speed Manual,180.0,18.5,5.0,Petrol
+Aprilia RSV4 RR,Aprilia,3340763.0,12.0,999.0,6 Speed Manual,180.0,18.5,4.8,Petrol
+Aprilia Shiver 900,Aprilia,13500.0,18.0,896.1,6 Speed Manual,218.0,15.0,4.4,Petrol
+Aprilia SR 125,Aprilia,113313.0,39.5,124.45,Automatic,118.0,6.0,4.4,Petrol
+Aprilia SR 150,Aprilia,113313.0,40.7,154.8,Automatic,122.0,6.5,1.0,Petrol
+Aprilia SR 160,Aprilia,121432.0,35.0,160.03,Automatic,118.0,6.0,3.7,Petrol
+Aprilia SR150 [2017-2018],Aprilia,113313.0,35.0,154.8,Automatic,122.0,7.0,4.6,Petrol
+Aprilia Storm 125,Aprilia,118927.0,36.5,124.45,Automatic,118.0,6.0,4.5,Petrol
+Aprilia SXR 125,Aprilia,125799.0,40.0,124.45,Automatic,129.0,7.0,3.9,Petrol
+Aprilia SXR 160,Aprilia,129999.0,35.0,160.03,Automatic,129.0,7.0,3.9,Petrol
+Aprilia Tuono 457,Aprilia,406198.0,29.0,457.0,6 Speed Manual,175.0,12.7,4.7,Petrol
+Benelli 302R,Benelli,317000.0,25.0,300.0,6 Speed Manual,198.0,14.0,4.7,Petrol
+Benelli 502C,Benelli,579964.0,22.0,500.0,6 Speed Manual,216.0,21.0,4.4,Petrol
+Benelli Imperiale 400,Benelli,184468.0,30.0,373.5,5 Speed Manual,205.0,12.0,3.9,Petrol
+Benelli Leoncino 250 [2020],Benelli,559894.0,33.0,249.0,6 Speed Manual,162.0,12.5,3.8,Petrol
+Benelli Leoncino 500,Benelli,559894.0,22.0,500.0,6 Speed Manual,207.0,12.7,5.0,Petrol
+Benelli TNT 300 [2020],Benelli,322016.0,25.0,300.0,6 Speed Manual,196.0,16.0,4.5,Petrol
+Benelli TNT 600GT,Benelli,639973.0,19.0,600.0,6 Speed Manual,243.0,27.0,4.8,Petrol
+Benelli TNT 25,Benelli,182591.0,25.0,249.0,6 Speed Manual,159.0,17.0,3.8,Petrol
+Benelli TNT600i [2020],Benelli,768968.0,19.0,600.0,6 Speed Manual,231.0,15.0,4.7,Petrol
+Benelli TRK 251,Benelli,662000.0,30.0,249.0,6 Speed Manual,164.0,18.0,4.1,Petrol
+Benelli TRK 502 [2020-2024],Benelli,662000.0,25.0,500.0,6 Speed Manual,228.0,20.0,4.1,Petrol
+Benelli TRK 502 BS4,Benelli,662000.0,35.0,500.0,6 Speed Manual,235.0,20.0,4.2,Petrol
+Benelli TRK 502,Benelli,662000.0,25.0,500.0,6 Speed Manual,228.0,20.0,5.0,Petrol
+Benelli TRK 502X [2020-2024],Benelli,662000.0,25.0,500.0,6 Speed Manual,235.0,20.0,4.7,Petrol
+Benelli TRK 502X BS4,Benelli,662000.0,35.0,500.0,6 Speed Manual,235.0,20.0,5.0,Petrol
+Benelli TRK 502X,Benelli,714000.0,25.0,500.0,6 Speed Manual,235.0,20.0,4.7,Petrol
+Ducati 1299 Panigale R Final Edition,Ducati,2716000.0,20.0,1285.0,6 Speed Manual,190.0,17.0,4.8,Petrol
+Ducati 1299 Panigale,Ducati,1950975.0,20.0,1285.0,6 Speed Manual,190.0,17.0,5.0,Petrol
+Ducati 899 Panigale,Ducati,1950975.0,19.5,898.0,6 Speed Manual,193.0,17.0,4.8,Petrol
+Ducati 959 Panigale,Ducati,1538000.0,19.5,955.0,6 Speed Manual,197.5,17.0,4.9,Petrol
+Ducati Diavel Carbon,Ducati,2965962.0,28.0,1198.4,6 Speed Manual,234.0,17.0,5.0,Petrol
+Ducati Diavel,Ducati,2965962.0,21.0,1198.4,6 Speed Manual,239.0,17.0,4.8,Petrol
+Ducati Hypermotard 698 Mono,Ducati,1870300.0,20.8,659.0,6 Speed Manual,159.0,12.0,4.0,Petrol
+Ducati Hypermotard 950 [2018-2019],Ducati,1710500.0,18.0,937.0,6 Speed Manual,200.0,14.5,5.0,Petrol
+Ducati Hypermotard 950,Ducati,1710500.0,19.6,937.0,6 Speed Manual,200.0,14.5,4.4,Petrol
+Ducati Monster 1200 [2018-2019],Ducati,2295800.0,26.0,1198.4,6 Speed Manual,209.0,17.5,4.9,Petrol
+Ducati Monster 1200 R,Ducati,2295800.0,26.0,1198.4,6 Speed Manual,207.0,17.5,4.7,Petrol
+Ducati Monster 1200 S 2018,Ducati,2295800.0,26.0,1198.0,6 Speed Manual,211.0,16.5,5.0,Petrol
+Ducati Monster [2025],Ducati,1399000.0,19.0,937.0,6 Speed Manual,188.0,14.0,4.7,Petrol
+Ducati Monster 797 [2018-2019],Ducati,960960.0,18.0,803.0,6 Speed Manual,193.0,16.5,4.4,Petrol
+Ducati Monster 821 [2017],Ducati,1025100.0,18.0,821.0,6 Speed Manual,205.0,17.5,4.8,Petrol
+Ducati Monster 821 [2018-2019],Ducati,991958.0,18.0,821.0,6 Speed Manual,206.0,16.5,4.7,Petrol
+Ducati Monster,Ducati,1399000.0,19.0,890.0,6 Speed Manual,188.0,14.0,2.0,Petrol
+Ducati Multistrada 1200 Enduro,Ducati,1279000.0,18.0,1198.4,6 Speed Manual,254.0,30.0,4.7,Petrol
+Ducati Multistrada 1200 S,Ducati,1939000.0,20.0,1198.4,6 Speed Manual,235.0,20.0,5.0,Petrol
+Ducati Multistrada 1200,Ducati,237040.0,20.0,1198.4,6 Speed Manual,232.0,20.0,5.0,Petrol
+Ducati Multistrada 950 [2018-2019],Ducati,1440000.0,35.0,937.0,6 Speed Manual,229.0,20.0,4.4,Petrol
+Ducati Multistrada V4 RS,Ducati,4346700.0,20.0,1103.0,6 Speed Manual,260.0,22.0,4.5,Petrol
+Ducati Old Generation Panigale V4 R [2024],Ducati,1950975.0,12.5,998.0,6 Speed Manual,193.5,17.0,4.9,Petrol
+Ducati Panigale V2 [2024],Ducati,1950975.0,16.6,955.0,6 Speed Manual,200.0,17.0,4.9,Petrol
+Ducati Panigale V4 [2018-2019],Ducati,2099000.0,18.0,1103.0,6 Speed Manual,198.0,16.0,4.6,Petrol
+Ducati Panigale V4 [2021],Ducati,1950975.0,13.0,1103.0,6 Speed Manual,198.0,16.0,4.9,Petrol
+Ducati Panigale V4 [2022-2024],Ducati,1950975.0,13.0,1103.0,6 Speed Manual,198.5,17.0,4.8,Petrol
+Ducati Panigale V4 Lamborghini,Ducati,10000000.0,12.0,1103.0,6 Speed Manual,185.0,17.0,4.1,Petrol
+Ducati Panigale V4 R [2018-2019],Ducati,8499000.0,15.5,998.0,6 Speed Manual,193.0,16.0,4.1,Petrol
+Ducati Panigale V4 R,Ducati,8499000.0,12.5,998.0,6 Speed Manual,193.5,17.0,4.2,Petrol
+Ducati Panigale V4 S [2018-2019],Ducati,2273900.0,18.0,1103.0,6 Speed Manual,195.0,16.0,4.4,Petrol
+Ducati Panigale V4,Ducati,3269958.0,15.0,1103.0,6 Speed Manual,191.0,17.0,4.8,Petrol
+Ducati Scrambler 1100 [2018-2019],Ducati,1086986.0,18.0,1079.0,6 Speed Manual,206.0,15.0,5.0,Petrol
+Ducati Scrambler Cafe Racer [2018],Ducati,1086986.0,18.0,803.0,6 Speed Manual,188.0,13.5,5.0,Petrol
+Ducati Scrambler Full Throttle [2019],Ducati,1086986.0,56.0,803.0,6 Speed Manual,189.0,13.5,5.0,Petrol
+Ducati Scrambler Full Throttle [2023-2024],Ducati,1086986.0,19.0,803.0,6 Speed Manual,185.0,13.5,4.7,Petrol
+Ducati Scrambler Icon [2017-2018],Ducati,1086986.0,19.0,803.0,6 Speed Manual,186.0,13.5,4.8,Petrol
+Ducati Scrambler Icon [2018-2019],Ducati,1086986.0,56.0,803.0,6 Speed Manual,189.0,13.5,4.3,Petrol
+Ducati Scrambler Icon [2020-2022],Ducati,1086986.0,19.0,803.0,6 Speed Manual,189.0,13.5,4.8,Petrol
+Ducati Scrambler Nightshift [2021-2022],Ducati,1086986.0,19.0,803.0,6 Speed Manual,191.0,13.5,4.8,Petrol
+Ducati Scrambler Nightshift,Ducati,1346600.0,19.0,803.0,6 Speed Manual,191.0,13.5,5.0,Petrol
+Ducati Scrambler Urban Motard,Ducati,1086986.0,19.0,803.0,6 Speed Manual,189.0,13.5,4.0,Petrol
+Ducati Streetfighter V2 [2024],Ducati,2925963.0,17.0,955.0,6 Speed Manual,200.0,17.0,4.9,Petrol
+Ducati Streetfighter V2,Ducati,1785977.0,17.0,890.0,6 Speed Manual,200.0,15.0,4.4,Petrol
+Ducati Streetfighter V4 [2019-2023],Ducati,2925963.0,13.15,1103.0,6 Speed Manual,201.0,16.0,4.9,Petrol
+Ducati Streetfighter V4 [2024],Ducati,2925963.0,13.15,1103.0,6 Speed Manual,201.0,16.0,4.8,Petrol
+Ducati SuperSport [2018-2019],Ducati,1716100.0,19.0,937.0,6 Speed Manual,210.0,16.0,4.6,Petrol
+Ducati SuperSport,Ducati,1716100.0,17.8,937.0,6 Speed Manual,210.0,16.0,4.8,Petrol
+Ducati XDiavel [2018-2019],Ducati,2965962.0,28.0,1262.0,6 Speed Manual,247.0,18.0,5.0,Petrol
